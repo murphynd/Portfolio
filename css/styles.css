@@ -1,20 +1,4 @@
-body {
-  background-color: lightblue;
-}
 
-h1 {
-  color: darkblue;
-  text-align: center;
-}
-
-h2 {
-  color: darkcyan;
-  text-align: center;
-}
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
 .column {
   border: 5px solid black;
   padding: 10px;
@@ -23,7 +7,7 @@ p {
   margin: auto;
   margin-top: 10px;
   margin-bottom: 10px;
-  width: 50%;
+  width: 90%;
   box-sizing: border-box;
 }
 .centered-image {
@@ -44,4 +28,21 @@ p {
 .column p {
   color:darkgray;
   font-style: arial;
+}
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+h2 {
+  color: darkcyan;
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
 }
