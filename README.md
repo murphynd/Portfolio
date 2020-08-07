@@ -59,6 +59,6 @@ _if you run into any issues or have questions, ideas or concerns.  Contact me at
 * Bootstrap CSS
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+* GPL 
 
 Copyright (c) 2020 **Natalie Murphy**

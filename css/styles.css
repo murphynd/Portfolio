@@ -1,9 +1,10 @@
-.col-container {
-  display: table; /* Make the container element behave like a table */
-  width: 100%; /* Set full-width to expand the whole page */
-}
-.col {
-  display: table-cell; /* Make elements inside the container behave like table cells */
+img{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 .card {
   border-radius: 25px;
