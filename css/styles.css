@@ -20,7 +20,7 @@
   font-style: times;
   font-weight: bold;
 }
-.column h2 {
+.column h2, h4 {
   color:rgb(51, 49, 49);
   font-weight: 300;
   font-style: helvetica;
