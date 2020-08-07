@@ -15,3 +15,33 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+.column {
+  border: 5px solid black;
+  padding: 10px;
+  background-color: ivory;
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 50%;
+  box-sizing: border-box;
+}
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
+.column ul {
+  font-style: times;
+  font-weight: bold;
+}
+.column h1 {
+  color:gray;
+  font-style: arial;
+  text-align: center;
+}
+.column p {
+  color:darkgray;
+  font-style: arial;
+}
