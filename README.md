@@ -1,22 +1,8 @@
-
-* A gh-pages branch so that your site may be viewed on GitHub Pages at your-username.github.io/portfolio.
-
-em, strong, span.
-floats.
-
-* author name
-* project or program name
-* description of program
-* program setup instructions
-* link to site on GitHub Pages
-* copyright and license information
-
-Site is successfully deployed to GitHub pages.
 # _Portfolio Website_
 
 #### _Landing page of future portfolio website, Aug 7, 2020_
 
-#### By _**By Natalie Murphy**_
+#### By _**Natalie Murphy**_
 
 ## Description
 
