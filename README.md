@@ -27,7 +27,8 @@
 
 ## Setup/Installation Requirements
 
-* _open index.html in a browser_
+* follow this link: https://murphynd.github.io/Portfolio/
+* or open index.html in a browser
 
 
 ## Known Bugs
