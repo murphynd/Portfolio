@@ -21,7 +21,8 @@ img{
   height: auto;
   display: block;
 }
-.column ul {
+.column ul, li {
+  text-align: left;
   font-style: times;
   font-weight: bold;
 }
@@ -48,6 +49,13 @@ h1 {
 h2 {
   color: darkcyan;
   text-align: center;
+}
+.recent{
+  float:center;
+  border-radius: 25px;
+  border: 2px solid yellowgreen;
+  background-color: rgb(171, 219, 247);
+  margin: 60px;
 }
 p {
   font-style: helvetica;
